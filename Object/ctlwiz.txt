@@ -1,0 +1,38 @@
+Di seguito viene riportato un elenco delle operazioni necessarie per eseguire il test e il debug dell'oggetto UserControl.
+
+A) Creare un programma di prova per UserControl
+
+Esistono due modi per impostare un programma di prova per UserControl, a seconda che il controllo sia inserito in un progetto EXE standard o in un progetto per controlli ActiveX.
+
+Se è stato creato un progetto Controllo ActiveX, impostare un programma di prova come indicato di seguito:
+
+1)  Salvare l'oggetto UserControl.
+2)  Chiudere la finestra di progettazione UserControl per attivare la modalità di esecuzione per il controllo.
+3)  Se non è ancora stato creato un progetto di prova, aggiungere un progetto EXE standard scegliendo Aggiungi progetto dal menu File.
+4)  Nella casella degli strumenti, fare doppio clic sull'icona di UserControl per inserire un'istanza del controllo in Form1 nel progetto EXE standard. È possibile spostare e ridimensionare il controllo nel modo desiderato.
+5)  Salvare il gruppo di progetti. Nelle sessioni successive di sviluppo e prova, sarà possibile aprire entrambi i progetti contemporaneamente aprendo il gruppo di progetti.
+
+Se l'oggetto UserControl è stato inserito in un progetto EXE standard esistente, eseguire la procedura indicata di seguito:
+
+1)  Salvare l'oggetto UserControl.
+2)  Chiudere la finestra di progettazione UserControl per attivare la modalità di esecuzione per il controllo.
+3)  Nella finestra Gestione progetti, fare doppio clic su Form1 nel progetto EXE standard per aprire la finestra di progettazione.
+4)  Nella casella degli strumenti, fare doppio clic sull'icona di UserControl per inserire un'istanza del controllo in Form1 nel progetto EXE standard. È possibile spostare e ridimensionare il controllo nel modo desiderato.
+
+B) Controllare il funzionamento del controllo in fase di progettazione e in fase di esecuzione.
+
+1)  Selezionare il controllo inserito in Form1 nel progetto di prova e premere F4 per aprire la finestra Proprietà. Verificare che sia possibile visualizzare e modificare le proprietà aggiunte nel controllo.
+2)  Chiudere Form1 e riaprirlo e verificare che i valori delle proprietà del controllo siano stati salvati e recuperati correttamente.
+3)  Fare doppio clic sul controllo inserito in Form1 e verificare che gli eventi corretti siano inclusi nell'elenco della casella di riepilogo (routine) nella finestra del codice.
+4)  Aggiungere il codice di prova nelle routine di eventi del controllo.
+5)  Aggiungere altri controlli ed inserire il codice nelle routine di eventi per verificare il funzionamento di run-time delle proprietà e dei metodi del controllo.
+6)  Premere F5 per eseguire il progetto di prova e verificare il funzionamento in esecuzione.
+
+È possibile modificare il controllo rieseguendo la Creazione guidata e selezionando il controllo.
+
+Utilizzare la Creazione guidata pagine proprietà per creare pagine delle proprietà per i controlli ActiveX personalizzati.
+
+Per ulteriori informazioni sulla creazione e la verifica funzionale dei controlli ActiveX, vedere il capitolo 4 "Creazione di un controllo ActiveX" e il capitolo 9 "Progettazione di controlli ActiveX".
+
+Nel capitolo 6 "Principi fondamentali per la progettazione di componenti" e nel capitolo 7 "Debug, test e distribuzione dei componenti" sono disponibili ulteriori informazioni utili.
+

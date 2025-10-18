@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=Elaborazione\Elaborazione.vbp
+StartupProject=Gioco\Gioco.vbp
+Project=..\..\..\..\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.vbp

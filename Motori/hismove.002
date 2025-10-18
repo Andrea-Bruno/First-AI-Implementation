@@ -1,0 +1,6 @@
+wboard
+load 002.fen
+post
+level 0 0 0
+go
+quit

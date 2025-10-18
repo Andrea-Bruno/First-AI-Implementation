@@ -1,0 +1,68 @@
+[Root]
+Most Recent Package=File .dep 1
+
+
+[Package|File .dep 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione
+
+[Package|File .dep 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|File .dep 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|File .dep 1|Files Found]
+
+[Package|File .dep 1|Files Released]
+
+[Package|File .dep 1|Missing Dependency Information]
+
+[Package|File .dep 1|Out-of-Date Dependency Information]
+
+[Package|File .dep 1|Files Added]
+
+[Package|File .dep 1|Files Removed]
+
+[Package|File .dep 1|Files In Project]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6IT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+
+[Package|File .dep 1|Configure Registry Files]
+Applicable=
+
+[Package|File .dep 1|Configure Remote Servers]
+Applicable=
+
+[Package|File .dep 1|Install Locations]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\File comuni\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6IT.DLL=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+
+[Package|File .dep 1|Configure Shared Files]
+Applicable=
+
+[Package|File .dep 1|DepFile]
+DepCabFile=Elaborazione.CAB
+DepCabRun=Elaborazione.INF
+
+[Package|File .dep 1|Package]
+PackageFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione
+ProjectFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione
+ServerSideCab=
+File1=C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

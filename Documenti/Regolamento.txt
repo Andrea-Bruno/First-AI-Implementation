@@ -1,0 +1,252 @@
+REGOLAMENTO DEL GIOCO DEGLI SCACCHI
+Testo approvato dal Congresso FIDE di Salonicco 1984 con gli emendamenti
+apportati dai Congressi FIDE di Salonicco 1988 e di Manila 1992
+In vigore dal 1° gennaio 1993
+
+Il Regolamento degli scacchi non può prevedere tutte le possibili situazioni che possono sorgere durante una partita, né può disciplinare tutte le questioni amministrative. Per i casi che non siano precisamente contemplati da un articolo del Regolamento, dovrebbe essere possibile raggiungere una decisione corretta esaminando situazioni analoghe che sono affrontate nel Regolamento. Nel Regolamento degli scacchi si presuppone che gli arbitri abbiano la necessaria competenza, buon discernimento e assoluta obiettività. Una regola troppo dettagliata priverebbe l'arbitro della sua libertà di giudizio e potrebbe impedirgli di trovare, per ogni problema, la soluzione dettata dall'imparzialità, dalla logica e dalla speciale situazione. La FIDE (chiede a tutti i giocatori e alle federazioni scacchistiche di accettare questo punto di vista.
+Ogni federazione scacchistica che abbia in funzione o desideri introdurre norme più dettagliate, è perfettamente libera di farlo purché:
+(a)	esse non siano in alcun modo in contrasto con i regolamenti ufficiali della FIDE,
+(b)	la loro applicazione sia limitata al territorio della federazione in questione e
+(c)	esse non siano valide per qualunque incontro, campionato o avvenimento di qualificazione della FIDE o per un torneo valido per l'Elo-FIDE o i titoli.
+In questo Regolamento le parole "egli" e "suo" sono usate senza distinzione per includere "ella" e "sua".
+
+Articolo 1. La scacchiera
+
+1	La partita a scacchi viene giocata tra due avversari mediante lo spostamento di pezzi su una tavola quadrata denominata "scacchiera".
+1.1	La scacchiera è composta di 64 case uguali alternativamente chiare (le "case bianche") e scure (le "case nere").
+1.2	La scacchiera è collocata tra i giocatori in modo tale che la casa d'angolo prossima alla destra di ciascun giocatore sia bianca.
+1.3	Le Otto file verticali di case si chiamano "colonne".
+1.4	Le Otto file orizzontali di case si chiamano "traverse".
+1.5	Le file di case dello stesso colore, che si toccano con gli angoli, si chiamano "diagonali".
+
+Articolo 2. I pezzi
+
+2.1	All'inizio della partita, un giocatore ha 16 pezzi colorati in chiaro (i pezzi "bianchi"), l'altro ha 16 pezzi colorati in scuro (i pezzi "neri").
+2.2	I pezzi sono i seguenti:
+
+Un Re bianco, usualmente indicato con il simbolo 
+Una Donna bianca, usualmente indicata con il simbolo 
+Due Torri bianche, usualmente indicate con il simbolo 
+Due Alfieri bianchi, usualmente indicati con il simbolo 
+Due Cavalli bianchi, usualmente indicati con il simbolo 
+Otto Pedoni bianchi, usualmente indicati con il simbolo 
+Un Re nero, usualmente indicato con il simbolo 
+Una Donna nera, usualmente indicata con il simbolo 
+Due Torri nere, usualmente indicate con il simbolo 
+Due Alfieri neri, usualmente indicati con il simbolo 
+Due Cavalli neri, usualmente indicati con il simbolo 
+Otto Pedoni neri, usualmente indicati con il simbolo 
+2.3	La posizione iniziale dei pezzi sulla scacchiera è la seguente:
+
+
+
+
+
+
+
+
+
+
+
+Articolo 3. Il diritto a muovere
+
+3.1	Il giocatore con i pezzi bianchi inizia la partita. Il giocatori si alternano nell'effettuare una mossa per volta fino a che la partita non sia conclusa.
+3.2	Si dice che un giocatore "ha la mossa" (o il tratto) quando la mossa dell'avversario è stata completata. (Vedere Art.6).
+
+Articolo 4. Definizione di mossa
+4.1	Ad eccezione dell'arrocco (Articolo 5.lb), una mossa è il trasferimento da parte di un giocatore di uno dei suoi pezzi da una casa ad un'altra casa che sia libera od occupata da un pezzo avversario.
+4.2	Nessun pezzo, salvo la Torre in caso di arrocco (Articolo 5.lb) e il Cavallo (Articolo 5.5), può oltrepassare una casa occupata da un altro pezzo.
+4.3	Un pezzo giocato in una casa occupata da un pezzo avversario lo cattura (o prende) come parte della stessa mossa. Il pezzo catturato deve essere subito rimosso dalla scacchiera dal giocatore che effettua la cattura (o presa). (Vedere Articolo 5.6c per la cattura  - o presa - "en passant").
+
+Articolo 5. Le mosse dei pezzi
+
+5.1	Re.
+(a)	Ad eccezione dell'arrocco, il Re si sposta in una qualsiasi casa contigua che non sia attaccata da un pezzo avversario.
+(b)	L'arrocco è una mossa del Re e di una delle due Torri, che conta come una singola mossa del Re e si esegue come segue: il Re viene trasferito, dalla sua casa
+di origine, di due case verso una o l'altra Torre sulla medesima traversa; poi quella Torre viene trasferita, passando sopra il Re, sulla casa che il Re ha appena attraversato.
+(c)	Se un giocatore tocca prima una sua Torre e poi il suo Re, egli può non arroccare con quella Torre e la situazione sarà disciplinata dagli Articoli 7.2 e 7.3.
+(d)	Se un giocatore, intendendo arroccare, tocca il Re per primo, oppure Re e Torre nello stesso tempo, e poi si avvede che l'arrocco è illegale, il giocatore può scegliere o di muovere il suo Re o di arroccare sull'altro lato, purché l'arrocco su quel lato sia legale.
+Se il Re non ha mosse legali, il giocatore è libero di effettuare qualsiasi mossa legale.
+(e)	L'arrocco è illegale:
+I)	se il Re è già stato mosso, o
+II)	se la Torre è già stata mossa.
+(f)	L'arrocco è momentaneamente impedito:
+I)	se la casa di origine del Re, o la casa che il Re deve attraversare o quella che sta per occupare, è attaccata da in pezzo dell'avversario, o
+II)	se vi è un qualsiasi pezzo tra il Re e la Torre con la quale I 'arrocco deve essere effettuato.
+
+5.2	La Donna
+La Donna si muove in qualsiasi casa (tranne le limitazioni stabilite dall'Articolo 4.2) sulla colonna, traversa o diagonale sulle quali si trova.
+5.3	La Torre
+La Torre si muove in qualsiasi casa (tranne le limitazioni stabilite dall'Articolo 4.2) sulla colonna o traversa sulle quali si trova.
+5.4	L'Alfiere.
+L'Alfiere si muove in qualsiasi casa (tranne le limitazioni stabilite dall'Articolo 4.2) sulle diagonali sulle quali si trova.
+5.5	Il Cavallo.
+La mossa del Cavallo si compone di due differenti passi: esso fa prima un passo di una singola casa lungo la colonna o traversa sulle quali si trova, e poi, sempre allontanandosi dalla casa di partenza, un passo di una singola casa in diagonale. Non ha importanza se la casa del primo passo è occupata.
+5.6	Il Pedone.
+(a)	Il pedone può muoversi soltanto in avanti.
+(b)	Eccetto quando effettua una cattura, esso avanza dalla sua casa di origine o di una o di due case libere lungo la colonna su cui esso è collocato, e, nelle mosse successive, avanza di una casa libera lungo la colonna sulla quale si trova. Nella cattura, esso avanza di una casa lungo l'una o l'altra diagonale sulle quali si trova.
+(c)	Un pedone che attacca una casa attraversata da un pedone dell'avversario che è stato avanzato dalla sua casa di origine di due case in una singola mossa, può catturare il pedone avversario come se quest'ultimo fosse stato avanzato di una sola casa. Questa cattura può essere fatta soltanto in risposta a tale avanzata ed è chiamata cattura "en passant".
+(d)	Al raggiungimento dell'ultima traversa, il pedone deve essere immediatamente scambiato, come parte integrante della stessa mossa, con una Donna, una Torre, un Alfiere o un Cavallo dello stesso colore del pedone, a scelta del giocatore e senza tener conto di quali pezzi sono rimasti sulla scacchiera. Questo scambio del pedone con un altro pezzo è chiamato "promozione" e l'azione del pezzo promosso è immediata.
+(e)	In una competizione, se il nuovo pezzo richiesto per la promozione non è immediatamente disponibile, il giocatore può fermare il suo orologio per chiedere l'assistenza dell'arbitro. Il giocatore deve completare la sua mossa correttamente, nel modo specificato nell'Articolo 5.6d.
+
+Articolo 6. Il completamento della mossa
+
+6	Una mossa è completata:
+6.1	nel caso del trasferimento di un pezzo in una casa libera, quando la mano del giocatore ha lasciato il pezzo;
+6.2	nel caso di una cattura, quando il pezzo catturato è stato rimosso dalla scacchiera e il giocatore, avendo collocato il proprio pezzo sulla nuova casa, ha lasciato il pezzo con la mano;
+6.3	nel caso di arrocco, quando la mano del giocatore ha lasciato la Torre sulla casa attraversata dal Re. Quando il giocatore ha lasciato il Re con la mano, la mossa non è ancora completata, ma il giocatore non ha più diritto di fare qualsiasi mossa diversa dall'arrocco su quel lato, se questo è legale;
+6.4	nel caso della promozione di un pedone quando il pedone è stato rimosso dalla scacchiera e la mano del giocatore ha lasciato il nuovo pezzo dopo averlo collocato nella casa di promozione. Se il giocatore ha lasciato con la mano il pedone che ha raggiunto la casa di promozione, la mossa non è ancora completata, ma il giocatore non ha più diritto di giocare il pedone in un'altra casa;
+6.5	nel determinare se il prescritto numero di mosse è stato raggiunto nel tempo assegnato, l'ultima mossa non è considerata completata se non dopo che il giocatore ha fermato il suo orologio. Questo si applica a tutte le situazioni eccettuate quelle disciplinate dagli Articoli 10.1, 10.2, 10.3, 10.4 e 10.6.
+
+Articolo 7.11 pezzo toccato
+
+7.1	A condizione che egli abbia prima manifestato la sua intenzione (per esempio, dicendo "j 'adoube"), il giocatore avente la mossa può acconciare uno o più pezzi nelle loro case.
+7.2	Eccettuato il caso suddetto, se il giocatore avente la mossa deliberatamente tocca sulla scacchiera:
+(a)	uno o più pezzi del medesimo colore, egli deve muovere o catturare il primo pezzo toccato che può essere mosso o catturato; o
+(b)	uno dei propri pezzi e uno dei pezzi dell'avversario, egli deve catturare il pezzo dell'avversario con il proprio pezzo; o se questo è illegale, muovere o catturare il primo pezzo toccato che può essere mosso o catturato. Se è impossibile stabilire quale pezzo è stato toccato per primo, il pezzo del giocatore sarà considerato il pezzo toccato.
+7.3	Se nessuno dei pezzi toccati può essere legalmente mosso (o se nessuno dei pezzi avversari toccati può essere legalmente catturato), il giocatore è libero di fare una qualsiasi altra mossa legale.
+7.4	Se un giocatore desidera avanzare reclamo per violazione da parte dell'avversario dell'Articolo 7.2, egli deve fare ciò prima di toccare a sua volta un pezzo.
+
+Articolo 8. Posizioni illegali
+
+8.1	Se, nel corso di una partita, si constata che era stata giocata una mossa illegale, la posizione sarà ristabilita come era immediatamente prima che la mossa illegale venisse eseguita. La partita continuerà, poi, con l'applicazione delle regole dell'Articolo 7 alla mossa eseguita in sostituzione della mossa illegale. Se la posizione non può essere ristabilita, la partita sarà annullata e si giocherà una nuova partita. Questo si applica a tutte le sessioni di gioco e ad una partita in attesa di una decisione mediante aggiudicazione.
+8.2	Se, nel corso di una partita, uno o più pezzi sono stati accidentalmente spostati e ricollocati non correttamente, la posizione sarà ristabilita come era prima che si verificasse 10 spostamento e la partita continuerà. Se la posizione non può essere ristabilita, la partita sarà annullata e si giocherà una nuova partita.
+8.3	Se un giocatore muove e nel corso di questo atto fa inavvertitamente cadere un pezzo o più pezzi, egli deve ristabilire la posizione sul suo tempo.
+8.4	Se dopo una sospensione, la posizione viene ripristinata non correttamente, la posizione deve essere nuovamente ripristinata come era alla sospensione e la partita continuerà.
+8.5	Se, durante una partita, si constata che la posizione iniziale dei pezzi non era corretta, la partita sarà annullata e si giocherà una nuova partita.
+8.6	Se una partita è iniziata con i colori invertiti la si continuerà se sarà trascorso un quarto del tempo previsto per il primo controllo del tempo. Se la scoperta dell'errore è avvenuta prima, l'arbitro può far ripetere la partita con i colori giusti, se l'orario di gioco del torneo non ne risentirà eccessivamente.
+8.7	Se, durante una partita, si constata che la scacchiera era stata collocata in modo contrario all'Articolo 1.2, la posizione raggiunta sarà trasferita su una scacchiera collocata correttamente e la partita continuerà.
+
+Articolo 9. Lo scacco
+
+9.1	Re è sotto scacco quando la casa che egli occupa è attaccata da uno o più pezzi dell'avversario; in questo caso si dice che tale pezzo dà o danno "scacco al Re". Un giocatore non può effettuare una mossa che lasci il suo Re in una casa attaccata da un qualsiasi pezzo dell'avversario.
+9.2	Ogni scacco deve essere parato immediatamente con la mossa di risposta. Se uno scacco non può essere parato, si dice che il Re è sotto "scacco matto" (o "matto"). (Vedere Articolo 10.1)
+9.3	Non è obbligatorio dichiarare lo scacco.
+
+Articolo 10. La conclusione della partita
+
+10.1	La partita è vinta dal Giocatore che ha dato scacco matto al Re dell'avversario. Ciò conclude immediatamente la partita.
+10.2	La partita è vinta dal giocatore il cui avversario dichiara di abbandonare. Ciò conclude immediatamente la partita.
+10.3	La partita è patta quando il Re del giocatore che ha la mossa non è sotto scacco e il giocatore non può fare alcuna mossa legale. Si dice allora che il Re è in "stallo". Ciò conclude immediatamente la partita.
+10.4	La partita è patta quando si verifica uno dei seguenti finali:
+(a)	Re contro Re
+(b)	Re contro Re con solo Alfiere o Cavallo
+(c)	Re e Alfiere contro Re e Alfiere, con ambedue gli Alfieri su diagonali dello stesso colore.
+10.5	Un giocatore avente solo il Re non può vincere la partita.
+Se l'avversario di un giocatore con il solo Re oltrepassa il tempo (Articolo 10.13 e 10.14) o mette in busta una mossa illegale (Articolo 10.16), la partita deve essere dichiarata patta.
+10.6	La partita è patta per accordo fra i due giocatori. Ciò conclude immediatamente la partita.
+10.7	Una proposta di patta in base alle condizioni dell'Articolo 10.6 può essere fatta da un giocatore soltanto nel momento in cui ha appena mosso un pezzo. Nel proporre allora la patta, egli mette in moto l'orologio dell'avversario. Quest'ultimo può accettare la proposta, che è sempre da intendere come incondizionata, oppure può rifiutarla, sia oralmente che con il completamento di una mossa. L'offerta di patta resta valida fino a quando l'avversario l'ha accettata o respinta.
+10.8	Se un giocatore propone la patta mentre l'orologio dell'avversario è in moto, l'avversario può accettare la proposta o rifiutarla. Un giocatore che offre la patta in questo modo può essere penalizzato dall'arbitro (Articolo 16.5).
+10.9	Se un giocatore propone la patta mentre il proprio orologio è in moto o dopo che la mossa segreta è stata chiusa, l'avversario può posporre la sua decisione fino a dopo aver visto la mossa del proponente.
+10.10	La partita è patta, su richiesta del giocatore che ha la mossa, quando la medesima posizione, per la terza volta:
+(a)	sta per apparire, se egli prima scrive la sua mossa sul formulario e dichiara all'arbitro la sua intenzione di effettuare questa mossa; o
+(b)	si è appena presentata, avendo, ogni volta, lo stesso giocatore il tratto. La posizione è considerata la stessa se i pezzi dello stesso genere e colore occupano le stesse case e se le possibili mosse di tutti i pezzi sono le stesse, incluso il diritto di arroccare o di prendere un pedone en passant.
+10.11	Se un giocatore esegue una mossa senza aver chiesto la patta per una delle condizioni stabilite nell'articolo 10.10, egli perde il diritto a richiedere la patta; questo diritto viene riacquistato, tuttavia, se la medesima posizione appare ancora, quando lo stesso giocatore ha la mossa.
+10.12	La partita è patta quando il giocatore che ha la mossa richiede la patta e dimostra che almeno le ultime 50 mosse consecutive sono state effettuate da ambedue le parti senza la cattura di alcun pezzo e senza il movimento di alcun pedone. Questo numero di 50 mosse può essere aumentato per certe posizioni, purché tale aumento di numero e tali posizioni siano state chiaramente annunciate dagli organizzatori prima dell'inizio dell'evento.
+10.13	Se un giocatore richiede la patta in base all'articolo 10.10, l'arbitro deve prima fermare gli orologi mentre la richiesta viene verificata. In assenza dell'arbitro i giocatori possono
+fermare entrambi gli orologi per richiedere l'assistenza dell'arbitro.
+(a)	se la richiesta è corretta la partita è patta.
+(b)	se la richiesta è infondata l'arbitro aggiungerà quindi 5 minuti al tempo usato dal richiedente. Se questo significa superare il tempo, la partita gli verrà data come persa. Altrimenti la partita continuerà e il giocatore che avrà indicato la mossa in accordo con gli articoli 10.10 è obbligato a eseguire questa mossa sulla scacchiera.
+(c)	un giocatore che ha effettuato la richiesta in base a questo articolo, non può più ritirarla.
+10.14	La partita è perduta per il giocatore che non ha completato il prescritto numero di mosse nel tempo stabilito, a meno che il suo avversario non sia rimasto con il solo Re, in tal caso la partita è patta. (Vedere Art.6.5 e 10.5).
+10.15	La partita è perduta da un giocatore che giunge alla scacchiera con più di un'ora di ritardo, per l'inizio della partita o per la ripresa di una partita sospesa. Il tempo di ritardo è calcolato dall'inizio della sessione. Tuttavia, nel caso di una partita sospesa, se il giocatore che ha messo in busta la mossa è il giocatore in ritardo, la partita viene decisa altrimenti se:
+(a)	il giocatore assente ha vinto la partita in virtù del fatto che la mossa in busta dà scaccomatto; o
+(b)	il giocatore assente ha conseguito una partita patta in virtù del fatto che la mossa in busta crea stallo, o se una delle posizioni previste nell'articolo 10.4 è stata conseguita per mezzo della mossa in busta; o
+(c)	il giocatore presente alla scacchiera ha perso la partita in base all'Articolo 10.14 per superamento del suo limite di tempo.
+10.16	Alla ripresa del gioco la partita è perduta da un giocatore che ha messo in busta una mossa
+(a)	che è ambigua; o
+(b)	della quale è impossibile stabilire il reale significato; o
+(e)	che risulta essere una mossa illegale.
+10.17	La partita è perduta per un giocatore che nel corso della stessa si rifiuta di applicare il Regolamento. Se entrambi i giocatori rifiutano di applicare il Regolamento o se ambedue i giocatori giungono alla scacchiera con più di un'ora di ritardo, la partita verrà dichiarata perduta per entrambi.
+
+Articolo 11. La trascrizione delle partite
+
+11.1	Nel corso del gioco ciascun giocatore è tenuto a trascrivere la partita (le proprie mosse e quelle dell'avversario), mossa dopo mossa, il più chiaro e leggibile possibile in notazione algebrica, sul formulario prescritto per la competizione. E irrilevante se il giocatore prima effettua la mossa e poi la riporta sul formulario o viceversa.
+11.2	Se un giocatore ha meno di cinque minuti sul suo orologio sino al controllo del tempo non è obbligato a soddisfare quanto richiesto dall'Articolo 11.1. Non appena lo speciale dispositivo (per esempio: la bandierina) dell'orologio indicherà la fine del tempo assegnatogli, il giocatore deve immediatamente completare il testo della partita con l'aggiunta delle mosse omesse sul suo formulano.
+11.3	Se ambedue i giocatori non possono annotare le mosse, l'arbitro, o il suo delegato, deve cercare di essere presente e prendere nota.
+L'arbitro non deve intervenire se non quando cade una bandierina e, fino a quel momento, non indicherà in alcun modo ai giocatori quante mosse sono state fatte.
+11.4	Se l'Articolo .11.2 non si applica, e un giocatore rifiuta di trascrivere la partita secondo I 'Articolo 11.1, allora sarà applicato l'Articolo 10.17.
+11.5	Se un giocatore non si rifiuta di applicare la richiesta dell'arbitro per il completamento del formulano, ma dichiara che egli non può completare il suo formulario senza consultare quello dell'avversario, la richiesta di questo formulano deve essere fatta all'arbitro, che determinerà se il formulano può essere completato prima del controllo del tempo senza inconvenienti per l'altro giocatore.
+Quest'ultimo non può rifiutarsi di dare il suo formulano perché il formulano appartiene agli organizzatori e la ricostruzione sarà fatta con il tempo del suo
+avversario. In tutti gli altri casi i formulari possono essere completati solo dopo il controllo del tempo.
+11.6	Se, dopo il controllo del tempo, un solo giocatore deve completare il suo formulano, egli dovrà fare ciò prima di effettuare un'altra mossa, e con il suo orologio in moto se l'avversario ha mosso.
+11.7	Se, dopo il controllo del tempo, ambedue i giocatori necessitano di completare i loro formulari, ambedue gli orologi verranno fermati sino a quando i due formulari non sono completati, se necessario con l'aiuto del formulano dell'arbitro e/odi una scacchiera, sotto il controllo dell'arbitro che dovrebbe aver registrato in anticipo la posizione raggiunta dalla partita.
+11.8	Se, nell'Articolo 11.6, l'arbitro vede che i formulari da soli non possono consentire la ricostruzione della partita, egli agirà come nell'Articolo 11.7.
+11.9	Se è impossibile ricostruire le mosse come prescritto dall'Articolo 11.7, la partita continuerà. In questo caso, la successiva mossa giocata sarà considerata come la prima del successivo controllo del tempo.
+
+Articolo 12. L'orologio per gli scacchi
+
+12.1	Ciascun giocatore deve eseguire un certo numero di mosse in un determinato periodo di tempo, questi due fattori vanno specificati in anticipo. Il tempo risparmiato da un giocatore
+durante un periodo è aggiunto al suo tempo disponibile per il periodo successivo.
+12.2	Il controllo del tempo di ciascun giocatore si effettua a mezzo di un orologio provvisto per questo scopo di una bandierina (o altro speciale dispositivo). Si considera caduta la bandierina quando l'arbitro osserva il fatto, o quando l'arbitro determina che il tempo concesso è stato superato anche se la bandierina, a causa di un difetto dell'orologio, non è caduta, ma la parte terminale della lancetta dei minuti ha superato la parte terminale della bandierina. Nei casi dove non sia presente alcun arbitro, si considera caduta la bandierina quando viene avanzata da un giocatore una richiesta per quel motivo.
+12.3	All'ora fissata per l'inizio della partita viene messo in moto l'orologio del giocatore che ha i pezzi bianchi. Durante la partita, ciascuno dei giocatori, avendo completato la sua mossa, ferma il proprio orologio e mette in movimento quello dell'avversario.
+12.4	Ogni indicazione data da un orologio è considerata conclusiva in assenza di evidenti difetti. Un giocatore che desideri reclamare per un qualsiasi funzionamento difettoso, deve farlo non appena si rende conto di ciò, ma non più tardi che immediatamente dopo che la sua bandierina è caduta al controllo del tempo. Un orologio con un evidente difetto dovrà essere sostituito, e il tempo impiegato da ciascun giocatore sino al momento dell'interruzione della partita dovrà essere indicato sul nuovo orologio il più accuratamente possibile. L'arbitro farà ricorso al suo miglior giudizio nel determinare quali tempi dovranno essere indicati sul nuovo orologio. Se l'arbitro ritiene di aggiungere del tempo sull'orologio di uno o ambedue i giocatori, egli non dovrà lasciare in nessun caso (tranne quanto previsto dall'Articolo 10.13b) un giocatore con:
+(a)	meno di cinque minuti sino al controllo del tempo; o
+(b)	meno di un minuto per ogni mossa sino al controllo del tempo.
+12.5	Se la partita necessita di essere interrotta per qualche ragione che richieda 1' intervento dell'arbitro, gli orologi saranno fermati dall'arbitro. Questo sarà fatto, ad esempio, nel caso di una posizione irregolare da correggere, nel caso di un orologio difettoso da cambiare, o se il pezzo che il giocatore ha dichiarato di voler scambiare con il pedone promosso non è immediatamente disponibile, o per richiedere la patta per il ripetersi della posizione o in base alla regola delle 50 mosse. Se l'arbitro non è presente, il giocatore può fermare entrambi gli orologi al fine di cercare l'assistenza dell'arbitro.
+12.6	Nei casi di cui gli Articoli 8.1 e 8.2, quando non è possibile determinare il tempo impiegato da ciascun giocatore sino al momento in cui l'irregolarità si è verificata, sarà attribuito, a ciascun giocatore a quel momento, un tempo proporzionale a quello indicato dall'orologio quando è stata constatata l'irregolarità. Se, ad esempio, dopo la 30ª mossa del Nero si constata che si è verificata una irregolarità alla 20ª mossa e per queste 30 mosse l'orologio indica 90 minuti per il Bianco e 60 minuti per il Nero, in tal caso si assume che i tempi impiegati dai due giocatori per le prime venti mosse fossero i seguenti:
+Bianco (90 x 20): 30=60 minuti
+Nero (60 x 20): 30 = 40 minuti
+Questa regola non deve essere applicata se lascia a un giocatore meno di 5 minuti al controllo del tempo o meno di un minuto per ciascuna mossa fino al controllo del tempo. (Il verificarsi più comune di questo problema è immediatamente dopo un aggiornamento quando il tempo sull'orologio può essere facilmente aggiustato usando il tempo scritto sulla busta della sospesa.)
+12.7	L'abbandono o l'accordo di patta (Art.10.2 e 10.6) rimangono validi anche quando si riscontra successivamente che la bandierina era caduta.
+12.8	Se ambedue le bandierine sono cadute virtualmente nello stesso tempo e l'arbitro non è in grado di stabilire chiaramente quale bandierina sia caduta per prima, la partita continuerà. In questo caso se i formulari non possono essere aggiornati in modo da evidenziare che il controllo del tempo è stato superato, la successiva mossa giocata verrà considerata come la prima dopo il controllo del tempo. 
+12.9	L'arbitro si asterrà dal richiamare l'attenzione del giocatore sul fatto che il silo avversario ha eseguito la mossa, o che il giocatore ha dimenticato di fermare il suo orologio, o dall'informarlo su quante mosse egli ha fatto, ecc.
+
+Articolo 13. La sospensione della partita
+
+13.1	
+(a) Se la partita non è terminata alla fine del tempo stabilito per il gioco, il giocatore che ha il tratto deve scrivere la sua mossa in notazione non ambigua sul suo formulano, porre il suo formulano e quello dell'avversario in una busta, chiudere la busta e solo allora fermare il suo orologio senza mettere in moto quello dell'avversario. Sino a quando non ha fermato gli orologi, il giocatore conserva il diritto di cambiare la sua mossa in busta. Se dopo che l'arbitro ha annunciato di mettere la mossa in busta il giocatore esegue una mossa sulla scacchiera, egli deve scrivere quella mossa sul formulario come sua mossa in busta.
+(b)	A un giocatore, avente la mossa, che sospende la partita prima della sessione di gioco, sarà aggiunto come tempo impiegato sul suo orologio l'intero tempo mancante alla fine della sessione.
+13.2	Sulla busta saranno indicati: 
+(a)	i nomi dei giocatori,
+(b)	la posizione immediatamente prima della mossa in busta,
+(c)	il tempo usato da ciascun giocatore,
+(d)	il nome del giocatore che ha messo la mossa in busta,
+(e)	il numero della mossa in busta,
+13.3	L'arbitro è responsabile della conservazione della busta e dovrebbe controllare l'accuratezza delle informazioni riportate sulla stessa.
+
+Articolo 14. La ripresa della partita sospesa
+
+14.1	Quando la partita viene ripresa, sarà ricostruita sulla scacchiera la posizione immediatamente antecedente la mossa in busta, e sarà indicato sugli orologi il tempo impiegato da ciascun giocatore al momento della sospensione della partita.
+14.2	La busta sarà aperta soltanto quando il giocatore che ha la mossa (il giocatore che deve rispondere alla mossa in busta) è presente. L'orologio di questo giocatore sarà messo in moto dopo che sia stata eseguita sulla scacchiera la mossa in busta.
+(a)	Se i due giocatori in una partita sospesa hanno concordato la patta e annunciano la loro decisione all'arbitro, e poi si trova, quando la busta viene aperta, che la mossa in busta non è corretta; o
+(b)	se uno dei giocatori in una partita sospesa notifica all'arbitro che egli abbandona e poi si trova, quando la busta viene aperta, che il suo avversario ha scritto una mossa in busta non valida in base all'Articolo 10.14, allora nel caso (a) la patta permane, e nel caso (b) l'abbandono resta valido.
+14.3	Se il giocatore che deve rispondere alla mossa in busta è assente, il suo orologio sarà messo in movimento, ma la busta contenente la mossa segreta sarà aperta soltanto al suo arrivo.
+14.4	Se il giocatore che ha messo la mossa in busta è assente, il giocatore avente il tratto non è obbligato a rispondere alla mossa in busta sulla scacchiera. Egli ha il diritto di registrare la sua mossa di risposta sul formulario, di chiudere il formulano in una busta, di fermare il proprio orologio e di mettere in moto l'orologio dell'avversario. La busta dovrebbe essere messa al sicuro e aperta all'arrivo dell'avversario.
+14.5	Se la busta contenente la mossa scritta in accordo con gli Articoli 13 è scomparsa:
+(a)	la partita sarà ripresa dalla posizione al momento della sospensione e con i tempi dell'orologio al momento della sospensione;
+(b)	se è impossibile ristabilire la posizione la partita è annullata e sarà giocata una nuova partita;
+(c)	se il tempo impiegato al momento della sospensione non può essere ristabilito, la relativa decisione viene lasciata all'arbitro. Il giocatore che ha messo la mossa in busta la effettua sulla scacchiera.
+14.6	Se, alla ripresa della partita, il tempo impiegato non è stato correttamente indicato su uno dei due orologi, e se uno dei due giocatori fa notare ciò prima di eseguire la sua prima mossa,
+l'errore deve essere corretto. Se l'errore non viene così' stabilito, la partita continua senza correzione a meno che l'arbitro non ritenga che le conseguenze possano essere troppo serie.
+14.7	La durata della sessione della partita sospesa sarà controllata per mezzo di un orologio da muro con l'orario di inizio e di fine annunciati anticipatamente.
+
+Articolo 15. Il comportamento dei giocatori
+
+15.1	Proibizioni.
+(a)	Durante il gioco è vietato ai giocatori servirsi di appunti manoscritti, stampati o altrimenti registrati, o analizzare la partita su altra scacchiera; è altresì ad essi vietato far ricorso al consiglio o parere di terzi, sia sollecitato o no.
+(b)	L'uso di annotazioni fatte durante la partita come sussidio mnemonico è parimenti vietato, a parte la progressiva registrazione delle mosse e dei tempi dell'orologio.
+(c)	Durante il gioco o durante le sessioni di partite sospese non è permessa alcuna analisi nelle sale di gioco.
+(d)	È proibito distrarre o disturbare in qualunque modo l'avversario. Ciò include la persistente offerta di patta.
+15.2	Le infrazioni alle norme indicate all'Articolo 15.1 possono comportare penalità la cui estensione può arrivare anche alla perdita della partita (Vedere Articolo 16.5).
+
+Articolo 16. L'Arbitro
+
+Per controllare la competizione dovrebbe essere designato un arbitro. I suoi compiti sono:
+16.1	Vigilare affinché sia strettamente osservato il Regolamento.
+16.2	Sorvegliare l'andamento della competizione, verificare che i limiti di tempo stabiliti non siano stati superati dai giocatori, fissare l'ordine di ripresa del gioco delle partite sospese, badare che siano osservate le disposizioni contenute nell'Articolo 13 (verificare che le indicazioni scritte sulla busta siano corrette), custodire la busta della mossa segreta fino al momento della ripresa della partita sospesa, ecc.
+16.3	Far applicare le decisioni che egli può prendere in contestazioni che possono verificarsi nel corso della competizione.
+16.4	Agire nel migliore interesse della competizione con l'assicurare che vengano mantenute buone condizioni ambientali di gioco e che i giocatori non si disturbino reciprocamente o vengano disturbati dal pubblico.
+16.5	Comminare penalità ai giocatori per qualsiasi mancanza o infrazione al Regolamento. Queste penalità possono includere l'ammonizione, la penalizzazione di tempo da aggiungere al tempo impiegato dal giocatore o al tempo ancora disponibile per il suo avversario, o perfino la perdita della partita.
+
+Articolo 1 7. I risultati
+
+17.	Per la partita vinta il vincitore ottiene 1 (un) punto e lo sconfitto 0 (zero); per la patta ciascun giocatore ottiene 0,5 (mezzo) punto.
+
+Articolo 18. L'interpretazione del Regolamento
+
+18.	In caso di dubbi sull'applicazione o interpretazione del Regolamento, la FIDE esaminerà l'accaduto ed emanerà le decisioni ufficiali. Le disposizioni pubblicate sono vincolanti per tutte le federazioni affiliate. Tutte le proposte e le questioni concernenti l'interpretazione dovranno essere sottoposte da federazioni aderenti, con dati completi.
+
+Articolo 19. Validità
+
+19.	Il testo inglese è la versione autentica del Regolamento degli scacchi che è stato adottato dal Congresso 1984 della FIDE, con gli emendamenti approvati nei Congressi 1988 e 1992 della FIDE, in vigore dal l° gennaio 1993.

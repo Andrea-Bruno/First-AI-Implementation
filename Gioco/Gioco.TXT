@@ -1,0 +1,3 @@
+Il file .cab dell'applicazione è stato creato come 'C:\Programmi\programmazione\Sorgenti\Scacchi\Gioco\Pacchetto\Scacchi.CAB'.
+
+Nella directory di supporto (C:\Programmi\programmazione\Sorgenti\Scacchi\Gioco\Pacchetto\Support\Scacchi.BAT) è inoltre disponibile un file batch che consente di ricreare il file .cab se vengono apportate modifiche a uno o più file.

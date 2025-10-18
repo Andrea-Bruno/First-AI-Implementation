@@ -1,0 +1,17 @@
+[Version]
+Version=1.0.0.66
+
+[Elaborazione.dll <0010>]
+Dest=$(WinSysPath)
+Date=20/01/00
+Time=20.02
+Version=1.0.0.66
+CABFilename=Elaborazione.CAB
+CABINFFile=Elaborazione.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=VB6IT.DLL

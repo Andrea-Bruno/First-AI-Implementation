@@ -1,0 +1,5 @@
+Riga 20: la classe MSComctlLib.TabStrip del controllo tbsOptions non era una classe di controllo caricata.
+Riga 26: il nome della proprietà _ExtentX in tbsOptions non è valido.
+Riga 27: il nome della proprietà _ExtentY in tbsOptions non è valido.
+Riga 28: il nome della proprietà _Version in tbsOptions non è valido.
+Riga 49: il nome della proprietà Tabs in tbsOptions non è valido.

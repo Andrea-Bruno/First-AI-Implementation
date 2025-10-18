@@ -1,0 +1,514 @@
+#############################################
+#  Openings Book for Cilian v4.13 or newer  #
+#############################################
+
+
+# 26.5.99 by François Scheurer
+# number of positions in the book : 644
+
+
+# Notes:
+# -type 'newone:' at each opening beginning,
+# -type 'black:' before the variations which are optimal for Black,
+# -type 'white:' before the variations which give an advantage for White,
+# -dont type 'black:' or 'white:' before the variations which are interesting for 
+#  the both players.
+#
+#  If playing Black, it will follow the 'black:' sequences, but if none are found, 
+#  then it will play the 'newone:' sequences until it reads 'white:'. 
+#  If playing White, it will follow the 'white:' sequences, but if none are found, 
+#  then it will play the 'newone:' sequences until it reads 'black:'. 
+#
+# The 'openings book' is a new feature of Cilian! For this you need to have the 
+# file "openings.dat" in the working directory of Cilian. If you want, you can 
+# edit and modify the file "openings.txt" and recompile it with the command
+# "Cilian -crbk". This overwrite "opening.dat" and allow you to build your own 
+# openings book!
+#
+# Use "Cilian -nobk" if you want to disable the openings book.
+
+
+#------------------------------------------------------------------------------------
+# Gambit du Roi
+
+# a) Contre-gambit Falkbeer
+
+newone:
+1. e4 e5
+2. f4 d5
+3. Nf3 dxe4
+4. Ne5 Nd7
+5. d4 exd3
+6. Nd3 Nf6
+7. Nc3 c6
+8. Qf3 Nb6
+
+newone:
+1. e4 e5
+2. f4 d5
+3. exd5 e4
+4. d3 Nf6
+5. Nc3 Bb4
+black:
+6. Bd2 e3!
+7. Bxe3 O-O
+8. Bd2 Bxc3
+9. bxc3 Nxd5
+10. Qf3 Re8+
+11. Ne2 Nc6
+
+newone:
+1. e4 e5
+2. f4 d5
+3. exd5 e4
+white:
+4. d3 exd3?
+5. Bd3 Nf6
+6. Nc3 Be7
+7. Nf3 O-O
+8. O-O
+
+newone:
+1. e4 e5
+2. f4 d5
+3. exd5 e4
+white:
+4. d3 Qxd5?
+5. Qe2 f5
+6. Nc3 Bb4
+7. Bd2 Bxc3
+8. Bxc3
+
+# b) Gambit accepté
+
+newone:
+1. e4 e5
+2. f4 exf4
+3. Nf3 d5
+4. exd5 Nf6
+5. c4 c6
+6. d4 Bb4
+7. Nc3 cxd5
+8. Bf4 O-O
+
+newone:
+1. e4 e5
+2. f4 exf4
+black:
+3. Bc4 Qh4+
+4. Kf1 d5
+5. Bxd5 Bd6
+6. Nc3 Ne7
+7. d4 f6
+8. Nf3 Qh5
+9. Bc4 Bg4
+
+newone:
+1. e4 e5
+2. f4 exf4
+black:
+3. d4 Qh4+
+
+#------------------------------------------------------------------------------------
+# Début Ponziani
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+4. d4 d5
+black:
+5. exd5 Qxd5
+6. dxe5 Qxd1+
+7. Kxd1 Ng4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+4. d4 d5
+black:
+5. dxe5 Nxe4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+4. d3 d5
+black:
+5. Nbd2
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+white:
+4. d4 Nxe4
+5. d5 Nb8
+6. Nxe5 Nf6
+7. Be2 Bc5
+8. O-O O-O
+9. Nd3 Be7
+
+#------------------------------------------------------------------------------------
+# Défense Philidor
+
+newone:
+1. e4 e5
+2. Nf3 d6
+white:
+3. d4 f5
+4. Bc4 fxe4
+5. Nxe5 d5
+6. Qh5+ g6
+7. Nxg6 Nf6
+8. Qe5+ Be7
+9. Bb5+                 # Blancs menacent
+
+newone:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+6. O-O O-O
+7. Qe2 c6
+8. a4 Qc7
+white:
+9. h3                   # Noirs bloqués
+
+newone:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+6. O-O O-O
+7. Qe2 c6
+8. a4 Qc7
+9. Rd1 Nb6
+10. Bb3 Bg4
+
+newone:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+black:
+6. Bxf7+ Kxf7
+7. Ng5+ Kg8
+8. Ne6 Qe8
+9. Nxc7 Qg6
+10. Nxa8 Qxg2
+11. Rf1 Ng4             #Noirs menacent fatalement!
+
+newone:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+white:
+4. Nc3 exd4
+5. Nxd4 g6
+6. Be3 Bg7
+7. Qd2 O-O
+8. O-O-O Re8
+9. f3 Nc6
+10. h4                  # Blancs attaquent le roque
+
+#------------------------------------------------------------------------------------
+# Défense de deux Cavaliers
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. d3 Bc5
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+black:
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5 c6
+7. dxc6 bxc6
+8. Be2 h6
+9. Nf3 e4
+10. Ne5 Bd6
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nxd5
+white:
+6. Nxf7 Kxf7
+7. Qf3+ Ke6
+8. Nc3 Nb4
+9. Qe4
+
+#------------------------------------------------------------------------------------
+# Partie Italienne
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d3 Bc5
+5. c3 d6
+6. Bb3 O-O
+7. O-O h6
+8. h3
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+black:
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Bxc3
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+black:
+4. c3 Nf6
+5. d4 exd4
+6. e5 d5
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+white:                  # Gambit Evans
+4. b4 Bxb4
+5. c3 Bb6
+6. d4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d3 Bc5
+5. c3 d6
+6. Bb3 O-O
+black:
+7. O-O Bg4
+8. h3 Bxf3
+
+#------------------------------------------------------------------------------------
+# Défense Steinitz
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 d6
+4. d4 Bd7
+5. Nc3 Nf6
+6. O-O Be7
+7. Re1 exd4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 d6
+white:
+4. d4 exd4
+5. Nxd4 Bd7
+6. O-O Nf6
+7. Nc3 Be7
+8. Re1 O-O
+9. Bg5
+
+#------------------------------------------------------------------------------------
+# Partie Espagnole
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+4. Ba4 Nf6
+5. O-O Be7
+6. Re1 b5
+7. Bb3 O-O
+8. c3 d6
+9. h3 Na5               # Tchigorine
+10. Bc2 c5
+11. d4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+4. Ba4 Nf6
+5. O-O Be7
+6. Re1 b5
+7. Bb3 O-O
+black:
+8. c3 d5                # attaque Marshall
+9. exd5 Nxd5
+10. Nxe5 Nxe5
+11. Rxe5 c6
+12. d4 Bd6
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+4. Ba4 Nf6
+5. O-O Be7
+6. Re1 b5
+7. Bb3 O-O
+8. c3 d6
+black:
+9. d4 Bg4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+4. Ba4 Nf6
+white:
+5. O-O Nxe4
+6. d4
+
+newone:
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+4. Bxc6 dxc6
+5. Nxe5 Qd4
+
+#------------------------------------------------------------------------------------
+# 1. d4
+
+# a) Gambit de la Dame
+
+newone:
+1. d4 d5
+2. c4 e5                # Contre-gambit Albin
+3. dxe5 d4
+4. Nf3 Nc6
+5. a3 Bg4
+6. b4 Qe7
+7. Qa4 O-O-O
+8. Bf4                  # Blancs mieux
+
+newone:
+1. d4 d5
+2. c4 e5                # Contre-gambit Albin
+3. dxe5 d4
+black:
+4. e3 Bb4+
+5. Bd2 dxe3
+6. Bxb4 exf2+
+7. Ke2 fxg1=N+
+
+newone:
+1. d4 d5
+2. c4 dxc4
+
+newone:
+1. d4 d5
+2. c4 e6
+3. Nc3 Nf6
+4. cxd5 exd5
+5. Bg5 c6
+6. e3
+
+newone:
+1. d4 d5
+2. c4 e6
+3. Nc3 c5
+4. cxd5 exd5
+5. Nf3 Nc6
+6. g3 Nf6
+7. Bg2 Be7
+8. O-O O-O              # Défense Tarrasch
+
+# b) Défense Nimzowitsch
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O Nc6
+8. a3 Bxc3
+9. bxc3 dxc4
+10. Bxc4 Qc7
+11. Ba2 e5
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. a3 Bxc3+
+5. bxc3 c5
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. f3 d5
+
+newone:
+1. d4 Nf6
+black:
+2. Nc3 d5
+3. f3 c5
+
+#------------------------------------------------------------------------------------
+# Ouest Indienne
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. Nc3 Ne4
+8. Qc2 Nxc3
+9. Qxc3 c5
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+black:
+4. e3 Bb7
+5. Bd3 d5
+
+#------------------------------------------------------------------------------------
+# Système Petrossian
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 Nxd5
+7. e3 Be7
+8. Bd3 O-O
+9. O-O c5
+
+newone:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+white:
+5. Nc3 c5
+6. d5
+
+#------------------------------------------------------------------------------------

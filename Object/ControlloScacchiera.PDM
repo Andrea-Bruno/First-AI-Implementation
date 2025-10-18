@@ -1,0 +1,400 @@
+[Root]
+Most Recent Package=Pacchetto di installazione standard 1
+
+
+[Package|File .dep 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Object
+Controls Design-Time Support=Yes
+
+[Package|File .dep 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|File .dep 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|File .dep 1|Files Found]
+
+[Package|File .dep 1|Files Released]
+
+[Package|File .dep 1|Missing Dependency Information]
+
+[Package|File .dep 1|Out-of-Date Dependency Information]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=
+
+[Package|File .dep 1|Files Added]
+c:\windows\system\msstkprp.dll=Il file è necessario per il supporto in fase di progettazione dell'oggetto UserControl.
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.alfiere.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.cavallo.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.dama.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.pedone.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.re.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.torre.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.alfiere.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.cavallo.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.dama.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.pedone.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.re.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.torre.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.alfiere.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.cavallo.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.dama.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.pedone.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.re.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.torre.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.alfiere.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.cavallo.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.dama.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.pedone.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.re.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.torre.gif=
+c:\programmi\programmazione\sorgenti\scacchi\documenti\giocare via e-mail.htm=
+
+[Package|File .dep 1|Files Removed]
+
+[Package|File .dep 1|Files In Project]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6IT.DLL=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=Yes
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=Yes
+C:\WINDOWS\SYSTEM\MSPRPIT.DLL=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Documenti\Giocare Via E-Mail.htm=Yes
+
+[Package|File .dep 1|Configure Registry Files]
+Applicable=No
+
+[Package|File .dep 1|Configure Remote Servers]
+Applicable=No
+
+[Package|File .dep 1|Install Locations]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Alfiere.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Cavallo.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Dama.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Pedone.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Re.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Torre.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Alfiere.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Cavallo.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Dama.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Pedone.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Re.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Torre.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Alfiere.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Cavallo.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Dama.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Pedone.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Re.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Torre.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Alfiere.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Cavallo.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Dama.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Pedone.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Re.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Torre.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6IT.DLL=$(WinSysPath)
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSPRPIT.DLL=$(WinSysPath)
+C:\Programmi\programmazione\Sorgenti\Scacchi\Documenti\Giocare Via E-Mail.htm=$(AppPath)
+
+[Package|File .dep 1|Configure Shared Files]
+Applicable=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.ocx=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Documenti\Giocare Via E-Mail.htm=No
+
+[Package|File .dep 1|Distribution]
+Type=single
+Size=
+Title=ActiveX Scacchiera
+
+[Package|File .dep 1|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=Vero
+Parent0=
+
+[Package|File .dep 1|$(Programs)]
+Icon1="Giocare Via E-Mail.htm"
+Title1=ActiveX Scacchiera
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|File .dep 1|DepFile]
+DepCabFile=ControlloScacchiera.CAB
+DepCabRun=ControlloScacchiera.INF
+
+[Package|File .dep 1|Package]
+PackageFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Object
+ProjectFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Object
+ServerSideCab=
+File1=C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Pacchetto di installazione standard 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pacchetto
+Controls Design-Time Support=Yes
+
+[Package|Pacchetto di installazione standard 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 1|Files Found]
+
+[Package|Pacchetto di installazione standard 1|Files Released]
+
+[Package|Pacchetto di installazione standard 1|Missing Dependency Information]
+
+[Package|Pacchetto di installazione standard 1|Out-of-Date Dependency Information]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=
+
+[Package|Pacchetto di installazione standard 1|Files Added]
+c:\windows\system\msstkprp.dll=Il file è necessario per il supporto in fase di progettazione dell'oggetto UserControl.
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.alfiere.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.cavallo.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.dama.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.pedone.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.re.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\bianco.torre.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.alfiere.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.cavallo.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.dama.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.pedone.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.re.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\dragicon\default\nero.torre.ico=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.alfiere.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.cavallo.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.dama.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.pedone.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.re.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\bianco.torre.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.alfiere.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.cavallo.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.dama.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.pedone.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.re.gif=
+c:\programmi\programmazione\sorgenti\scacchi\object\pictures\figure\default\nero.torre.gif=
+c:\programmi\programmazione\sorgenti\scacchi\documenti\giocare via e-mail.htm=
+
+[Package|Pacchetto di installazione standard 1|Files Removed]
+
+[Package|Pacchetto di installazione standard 1|Files In Project]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6IT.DLL=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=Yes
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=Yes
+C:\WINDOWS\SYSTEM\MSPRPIT.DLL=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Documenti\Giocare Via E-Mail.htm=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Pacchetto di installazione standard 1|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 1|Install Locations]
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Alfiere.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Cavallo.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Dama.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Pedone.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Re.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Torre.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Alfiere.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Cavallo.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Dama.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Pedone.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Re.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Torre.ico=$(WinSysPath)\Pictures\DragIcon\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Alfiere.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Cavallo.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Dama.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Pedone.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Re.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Torre.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Alfiere.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Cavallo.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Dama.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Pedone.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Re.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Torre.gif=$(WinSysPath)\Pictures\Figure\Default
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6IT.DLL=$(WinSysPath)
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSPRPIT.DLL=$(WinSysPath)
+C:\Programmi\programmazione\Sorgenti\Scacchi\Documenti\Giocare Via E-Mail.htm=$(AppPath)
+
+[Package|Pacchetto di installazione standard 1|Configure Shared Files]
+Applicable=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\ControlloScacchiera.ocx=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Elaborazione\Elaborazione.dll=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Bianco.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Alfiere.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Cavallo.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Dama.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Pedone.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Re.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\DragIcon\Default\Nero.Torre.ico=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Bianco.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Alfiere.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Cavallo.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Dama.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Pedone.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Re.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pictures\Figure\Default\Nero.Torre.gif=Yes
+C:\Programmi\programmazione\Sorgenti\Scacchi\Documenti\Giocare Via E-Mail.htm=No
+
+[Package|Pacchetto di installazione standard 1|Distribution]
+Type=single
+Size=
+Title=ActiveX Scacchiera
+
+[Package|Pacchetto di installazione standard 1|DepFile]
+DepCabFile=ControlloScacchiera.CAB
+DepCabRun=ControlloScacchiera.INF
+
+[Package|Pacchetto di installazione standard 1|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=Vero
+Parent0=
+
+[Package|Pacchetto di installazione standard 1|$(Programs)]
+Icon1="Giocare Via E-Mail.htm"
+Title1=ActiveX Scacchiera
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione standard 1|Package]
+PackageFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pacchetto
+ProjectFolder=C:\Programmi\programmazione\Sorgenti\Scacchi\Object
+ServerSideCab=
+File1=C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pacchetto\setup.exe
+File2=C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pacchetto\Setup.Lst
+File3=C:\Programmi\programmazione\Sorgenti\Scacchi\Object\Pacchetto\ControlloScacchiera.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
