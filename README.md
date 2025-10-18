@@ -52,6 +52,8 @@ Here is a revised version that maintains your personal style while elevating the
 
 ## The First AI Algorithm
 
+![Screenshot chess software](chess.png)
+
 Once the theoretical framework of the functioning of intelligence was defined, the next challenge became practical: how to implement it? The famous clash between Kasparov and Deep Blue, with all its ethical and philosophical implications, inspired me to undertake the creation of the first prototype of **true artificial intelligence**, a system that went beyond pure brute force. The work I completed in that period is now fully available in this repository.
 The goal was clear: to create an intelligence capable of **learning** according to the principles of reward and aversion I had theorized. The first step was to understand the need for **training**. I therefore dedicated myself to creating a **dataset**: a structured collection of data to "feed" to a **training** algorithm. This algorithm, processing the input data, would generate a final **model**, a binary file capable of embodying an intelligence similar to that observable in nature.
 To assemble the dataset, I used **BBS** (Bulletin Board Systems), the ancestors of the Internet, accessed via modem. Through these archives, I managed to retrieve **thousands of games** from the greatest chess champions of all time. I unified these games into a single, substantial file, which became the ideal training base for my model.
